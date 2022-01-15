@@ -8,4 +8,5 @@ def do_magic():
 
 
 if __name__ == "__main__":
+   print("Content-type: text/html\n\n")
    print(do_magic())
